@@ -1,3 +1,5 @@
+
+import Array.*;
 /**
  * test all challenge  here  
  * */
@@ -24,7 +26,7 @@ public class Main {
 		wellOrderedString.generate(2);
 		System.out.print("\n\n");
 		
-
+	
 	}
 
 }
