@@ -20,6 +20,7 @@ public class WordLadder_1 {
 	        Set<String> dic = new HashSet<String>();
 	        
 	        for(String str : wordList){
+	        
 	            dic.add(str);
 	        }
 	        
